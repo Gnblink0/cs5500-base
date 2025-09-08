@@ -20,11 +20,12 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 1. **Name:** __________________________ **Date:** __________ **Role:** __________________________
 
-2. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+2. **Name:** __Hongjing Ren________________________ **Date:** _Sep 08, 2025_________ **Role:** __________________________
 
 3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
 
 4. **Name:** ___________Xinlai Chen______ **Date:** ____09/08/2025______ **Role:** ___________Developer______________ (if applicable)
+=======
 
 *Note: The git commit history will verify that each team member has individually signed this charter.*
 
