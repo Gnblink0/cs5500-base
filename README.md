@@ -10,7 +10,7 @@
 ## Team Members
 | Image | Name | Email |
 |-------|------|-------|
-| <img src="Resources/cat.png" alt="Cat" height="64" width="64"> | Cat | cat@example.com |
+| <img src="https://github.com/user-attachments/assets/8cdddafc-2cbf-4702-b8aa-cc7b5a7045b4" alt="Gina" height="64" width="64"> | Gina | Gnblink44@gmail.com |
 | <img src="Resources/dog.png" alt="Dog" height="64" width="64"> | Dog | dog@example.com |
 | <img src="Resources/hippo.png" alt="Hippo" height="64" width="64"> | Hippo | hippo@example.com |
 | <img src="Resources/shark.png" alt="Shark" height="64" width="64"> | Shark | shark@example.com |
