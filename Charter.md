@@ -10,7 +10,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
   1. __________________________
   2. __________________________
   3. __________________________
-  4. __________________________ (if applicable)
+  4. _____________Doris Chen_____________ (if applicable)
 
 ## Charter Sign-In
 **Instructions:** Each team member must individually edit this file, add their name below, and commit the change. This creates accountability through git commit history showing each member's participation.
@@ -24,7 +24,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
 
-4. **Name:** __________________________ **Date:** __________ **Role:** __________________________ (if applicable)
+4. **Name:** ______Doris Chen____________________ **Date:** __09/08/2025________ **Role:** _________Developer_________________ (if applicable)
 
 *Note: The git commit history will verify that each team member has individually signed this charter.*
 
