@@ -4,14 +4,14 @@
 This Team Charter outlines the purpose, objectives, roles, responsibilities, and operating guidelines for our team as we develop an application for our external partner. It serves as a roadmap to ensure alignment and effective collaboration throughout the project.
 
 ## Team Information
-- **Team Name:** ___________Childless Cat Lady Group --Section 4 Afternoon 04___________
+- **Team Name:** ___________Childless Cat Ladies___________
 - **External Partner:** __________________________
 - **Team Members (3-4 people):**
 
   1. _________Shiyu Xu_________
   2. _________Hongjing Ren_________
   3. _________JiaHua Wu_________
-  4. _________Doris Chen_________ (if applicable)
+  4. _________Hongjing Ren_________
 
 ## Charter Sign-In
 **Instructions:** Each team member must individually edit this file, add their name below, and commit the change. This creates accountability through git commit history showing each member's participation.
