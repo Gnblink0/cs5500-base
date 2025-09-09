@@ -11,7 +11,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
   1. _________Shiyu Xu_________
   2. _________Hongjing Ren_________
   3. _________JiaHua Wu_________
-  4. _________Hongjing Ren_________
+  4. _________Doris Chen_________
 
 ## Charter Sign-In
 **Instructions:** Each team member must individually edit this file, add their name below, and commit the change. This creates accountability through git commit history showing each member's participation.
