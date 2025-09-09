@@ -4,13 +4,20 @@
 This Team Charter outlines the purpose, objectives, roles, responsibilities, and operating guidelines for our team as we develop an application for our external partner. It serves as a roadmap to ensure alignment and effective collaboration throughout the project.
 
 ## Team Information
-- **Team Name:** __________________________
+- **Team Name:** ___________Section 4 Afternoon 04___________
 - **External Partner:** __________________________
 - **Team Members (3-4 people):**
+<<<<<<< HEAD
   1. __________________________
   2. __________________________
   3. __________________________
   4. _____________Doris Chen_____________ (if applicable)
+=======
+  1. _________Shiyu Xu_________
+  2. _________Xinlai Chen_________
+  3. _________JiaHua Wu_________
+  4. _________Hongjing Ren_________ (if applicable)
+>>>>>>> info
 
 ## Charter Sign-In
 **Instructions:** Each team member must individually edit this file, add their name below, and commit the change. This creates accountability through git commit history showing each member's participation.
@@ -20,11 +27,12 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 1. **Name:** __________________________ **Date:** __________ **Role:** __________________________
 
-2. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+2. **Name:** __Hongjing Ren________________________ **Date:** _Sep 08, 2025_________ **Role:** __________________________
 
 3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
 
-4. **Name:** ______Doris Chen____________________ **Date:** __09/08/2025________ **Role:** _________Developer_________________ (if applicable)
+4. **Name:** ___________Xinlai Chen______ **Date:** ____09/08/2025______ **Role:** ___________Developer______________ (if applicable)
+=======
 
 *Note: The git commit history will verify that each team member has individually signed this charter.*
 
