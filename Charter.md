@@ -23,7 +23,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 2. **Name:** __Hongjing Ren________________________ **Date:** _Sep 08, 2025_________ **Role:** ________Developer__________________
 
-3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+3. **Name:** ______jiahua Wu____________________ **Date:** ____10/08/2025______ **Role:** ______________Developer____________
 
 
 4. **Name:** ______Doris Chen____________________ **Date:** __09/08/2025________ **Role:** _________Developer_________________ (if applicable)
