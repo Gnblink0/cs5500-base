@@ -11,7 +11,7 @@
 |-------|------|-------|
 | <img src="https://github.com/user-attachments/assets/cff76bdd-50dd-4c3e-ac3d-9bc84244c499" alt="Gina" height="64" width="64"> | Gina | Gnblink44@gmail.com |
 | <img src="Resources/dog.png" alt="Dog" height="64" width="64"> | Dog | dog@example.com |
-| <img src="Resources/hippo.png" alt="Hippo" height="64" width="64"> | Hippo | hippo@example.com |
+| <img src="Resources/hippo.png" alt="Hippo" height="64" width="64"> | Hippo | wu.jiahua@northeastern.edu |
 | <img src="Resources/shark.png" alt="Shark" height="64" width="64"> | Shark | shark@example.com |
 
 
