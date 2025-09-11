@@ -8,7 +8,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 - **External Partner:** __________________________
 - **Team Members (3-4 people):**
 
-  1. _________Shiyu Xu_________
+  1. _________Gina Shiyu Xu_________
   2. _________Hongjing Ren_________
   3. _________JiaHua Wu_________
   4. _________Doris Chen_________
@@ -19,7 +19,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 **Team Member Signatures:**
 <!-- Each member: Edit this file, add your name and date, then commit with message "Add [Your Name] to charter sign-in" -->
 
-1. **Name:** _________Shiyu Xu_________ **Date:** __09/08/2025__ **Role:** ____________Developer____________
+1. **Name:** _________Gina Shiyu Xu_________ **Date:** __09/08/2025__ **Role:** ____________Developer____________
 
 2. **Name:** _________Hongjing Ren_________ **Date:** ____Sep 08, 2025____ **Role:** ________Developer________
 
