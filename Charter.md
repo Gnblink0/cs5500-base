@@ -19,14 +19,14 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 **Team Member Signatures:**
 <!-- Each member: Edit this file, add your name and date, then commit with message "Add [Your Name] to charter sign-in" -->
 
-1. **Name:** _________Shiyu Xu_________ **Date:** ____09/08/2025____ **Role:** ____________Developer____________
+1. **Name:** _________Shiyu Xu_________ **Date:** __09/08/2025__ **Role:** ____________Developer____________
 
-2. **Name:** __Hongjing Ren________________________ **Date:** _Sep 08, 2025_________ **Role:** ________Developer__________________
+2. **Name:** _________Hongjing Ren_________ **Date:** ____Sep 08, 2025____ **Role:** ________Developer________
 
-3. **Name:** ______jiahua Wu____________________ **Date:** ____10/08/2025______ **Role:** ______________Developer____________
+3. **Name:** _________Jiahua Wu_________ **Date:** ____09/08/2025____ **Role:** ____________Developer____________
 
 
-4. **Name:** ______Doris Chen____________________ **Date:** __09/08/2025________ **Role:** _________Developer_________________ (if applicable)
+4. **Name:** _________Doris Chen_________ **Date:** _____09/08/2025_____ **Role:** ____________Developer____________ (if applicable)
    
 
 *Note: The git commit history will verify that each team member has individually signed this charter.*
