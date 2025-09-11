@@ -12,7 +12,7 @@
 | <img src="https://github.com/user-attachments/assets/cff76bdd-50dd-4c3e-ac3d-9bc84244c499" alt="Gina" height="64" width="64"> | Gina | Gnblink44@gmail.com |
 | <img src="Resources/dog.png" alt="Doris" height="64" width="64"> | Doris | chen.xinla@northeastern.edu |
 | <img src="Resources/hippo.png" alt="Hippo" height="64" width="64"> | Hippo | wu.jiahua@northeastern.edu |
-| <img src="Resources/shark.png" alt="Hongjing Ren" height="64" width="64"> | Shark | ren.hong@northeastern.edu |
+| <img src="Resources/shark.png" alt="Hongjing Ren" height="64" width="64"> | Hongjing Ren | ren.hong@northeastern.edu |
 
 
 
