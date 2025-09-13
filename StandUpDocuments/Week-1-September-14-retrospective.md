@@ -8,7 +8,7 @@ Week 1 September 14
 
 ## Participants
 - Gina
-- [Team Member 2]
+- Hongjing Ren
 - [Team Member 3]
 - [Team Member 4]
 - [Team Member 5]
@@ -56,13 +56,15 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### [Team Member 2]
 - **Achievements and Contributions:**
-  -
+  - complete the Chater.md
+  - update readme
+  - read the course material
 - **Challenges Faced:**
-  -
+  - 
 - **Areas for Improvement:**
-  -
+  -I'll exercises as much as possible on my own to improve skills.
 - **Feedback and Suggestions:**
-  -
+  - The course is well-structured and provides a solid foundation in TypeScript
 
 ### [Team Member 3]
 - **Achievements and Contributions:**
