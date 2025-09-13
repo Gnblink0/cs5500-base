@@ -10,8 +10,7 @@ Week 1 September 14
 - Gina
 - Hongjing Ren
 - jiahua Wu
-- [Team Member 4]
-- [Team Member 5]
+- Doris Chen
 
 ---
 
@@ -54,19 +53,19 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - Team collaboration started smoothly, laying a good foundation for future development
 
-### [Team Member 2]
+### Hongjing Ren
 - **Achievements and Contributions:**
   - complete the Chater.md
   - update readme
   - read the course material
 - **Challenges Faced:**
-  - 
+
 - **Areas for Improvement:**
   -I'll exercises as much as possible on my own to improve skills.
 - **Feedback and Suggestions:**
   - The course is well-structured and provides a solid foundation in TypeScript
 
-### [Team Member 3]
+### jiahua Wu
 - **Achievements and Contributions:**
   - complete the Chater file
   - updates all the files we need to be done
@@ -77,25 +76,21 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - team works going great.
 
-### [Team Member 4]
+### Doris Chen
 - **Achievements and Contributions:**
-  -
+  - Completed my part of the Charter.md document
+  - Contributed to updating the README file
+  - Participated in team setup and organization tasks
+  - Read through course materials and project requirements
 - **Challenges Faced:**
-  -
+  - Learning git workflow and collaboration processes
+  - Getting familiar with the project scope and requirements
 - **Areas for Improvement:**
-  -
+  - Continue practicing git operations and version control
+  - Improve time management for completing tasks efficiently
 - **Feedback and Suggestions:**
-  -
-
-### [Team Member 5]
-- **Achievements and Contributions:**
-  -
-- **Challenges Faced:**
-  -
-- **Areas for Improvement:**
-  -
-- **Feedback and Suggestions:**
-  -
+  - The team collaboration is working well with good communication
+  - Looking forward to taking on more development tasks in upcoming weeks
 
 ---
 
