@@ -9,7 +9,7 @@ Week 1 September 14
 ## Participants
 - Gina
 - Hongjing Ren
-- [Team Member 3]
+- jiahua Wu
 - [Team Member 4]
 - [Team Member 5]
 
@@ -68,13 +68,14 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### [Team Member 3]
 - **Achievements and Contributions:**
-  -
+  - complete the Chater file
+  - updates all the files we need to be done
 - **Challenges Faced:**
-  -
+  - None
 - **Areas for Improvement:**
-  -
+  - Needs to gets falimiar with Github
 - **Feedback and Suggestions:**
-  -
+  - team works going great.
 
 ### [Team Member 4]
 - **Achievements and Contributions:**
