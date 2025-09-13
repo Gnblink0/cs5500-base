@@ -4,20 +4,14 @@
 This Team Charter outlines the purpose, objectives, roles, responsibilities, and operating guidelines for our team as we develop an application for our external partner. It serves as a roadmap to ensure alignment and effective collaboration throughout the project.
 
 ## Team Information
-- **Team Name:** ___________Section 4 Afternoon 04___________
+- **Team Name:** ___________Childless Cat Ladies___________
 - **External Partner:** __________________________
 - **Team Members (3-4 people):**
-<<<<<<< HEAD
-  1. __________________________
-  2. __________________________
-  3. __________________________
-  4. _____________Doris Chen_____________ (if applicable)
-=======
-  1. _________Shiyu Xu_________
-  2. _________Xinlai Chen_________
+
+  1. _________Gina Shiyu Xu_________
+  2. _________Hongjing Ren_________
   3. _________JiaHua Wu_________
-  4. _________Hongjing Ren_________ (if applicable)
->>>>>>> info
+  4. _________Doris Chen_________
 
 ## Charter Sign-In
 **Instructions:** Each team member must individually edit this file, add their name below, and commit the change. This creates accountability through git commit history showing each member's participation.
@@ -25,14 +19,15 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 **Team Member Signatures:**
 <!-- Each member: Edit this file, add your name and date, then commit with message "Add [Your Name] to charter sign-in" -->
 
-1. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+1. **Name:** _________Gina Shiyu Xu_________ **Date:** __09/08/2025__ **Role:** ____________Developer____________
 
-2. **Name:** __Hongjing Ren________________________ **Date:** _Sep 08, 2025_________ **Role:** __________________________
+2. **Name:** _________Hongjing Ren_________ **Date:** ____Sep 08, 2025____ **Role:** ________Developer________
 
-3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+3. **Name:** _________Jiahua Wu_________ **Date:** ____09/08/2025____ **Role:** ____________Developer____________
 
-4. **Name:** ___________Xinlai Chen______ **Date:** ____09/08/2025______ **Role:** ___________Developer______________ (if applicable)
-=======
+
+4. **Name:** _________Doris Chen_________ **Date:** _____09/08/2025_____ **Role:** ____________Developer____________ (if applicable)
+   
 
 *Note: The git commit history will verify that each team member has individually signed this charter.*
 
