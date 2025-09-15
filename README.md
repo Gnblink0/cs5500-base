@@ -1,19 +1,18 @@
-# CS 5500 Fall 2024 Template Repository <img src="Resources/teamlogo.png" alt="Team Logo" height="256" width="256" align="right">
+# CS 5500 Fall 2024 Template Repository <img src="https://github.com/user-attachments/assets/5ea52a39-8b0a-4d68-a361-a92323f864eb" alt="Team Logo" height="256" width="256" align="right">
 
 
 - This is the landing page of your team.
-- **Team Name:** [Place holder for a team name]
-- **Team Logo:** [Place holder for a team logo]
+- **Team Name:** Childless Cat Ladies
 - **Team Description:** [Place holder for a team description]
 
 
 ## Team Members
 | Image | Name | Email |
 |-------|------|-------|
-| <img src="Resources/cat.png" alt="Cat" height="64" width="64"> | Cat | cat@example.com |
-| <img src="Resources/dog.png" alt="Dog" height="64" width="64"> | Dog | dog@example.com |
-| <img src="Resources/hippo.png" alt="Hippo" height="64" width="64"> | Hippo | hippo@example.com |
-| <img src="Resources/shark.png" alt="Shark" height="64" width="64"> | Shark | shark@example.com |
+| <img src="https://github.com/user-attachments/assets/cff76bdd-50dd-4c3e-ac3d-9bc84244c499" alt="Gina" height="64" width="64"> | Gina | Gnblink44@gmail.com |
+| <img src="Resources/dog.png" alt="Doris" height="64" width="64"> | Doris | chen.xinla@northeastern.edu |
+| <img src="Resources/hippo.png" alt="Hippo" height="64" width="64"> | Hippo | wu.jiahua@northeastern.edu |
+| <img src="Resources/shark.png" alt="Hongjing Ren" height="64" width="64"> | Hongjing Ren | ren.hong@northeastern.edu |
 
 
 
